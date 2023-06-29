@@ -16,6 +16,9 @@
         ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/c55762ad-7f0e-476a-a1db-61d53f80d5bb)
 
 
+    - Depois de feita organização dos dados em suas respetivas tabelas serão criadas Views para criação dos dashboards.   
+
+
 
   - Segunda Solução: 
     - Criar um DW utilizando a mesma tabela existento no DB da empresa. Sem separação das informações. Intuito seria criar um ambiente de consulta (DW) para não sobrecarregar o banco relacional da empresa.
@@ -25,6 +28,14 @@
       - EXEMPLO DW SEGUNDA OPÇÃO: (nota-se uma unica tabela igual ao do DB porem no ambiente de consulta DW2)
      
           ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/ddae8818-d65d-4a27-97e5-2b204e8916f9)
+
+    - A partir da Tabela "estoque" criada no ambiente de consulta "dw2" serão feitas Views específicas de acordo com a necessidade de cada setor e seus dashboards.
+
+
+
+# PRINCIPAL DIFERENÇA ENTRE AS DUAS SOLUÇÕES: 
+
+  - Na segunda solução elimina-se uma etapa constanta na primeira solução a fim de agilizar a entrega e resolução do problema. Essa etapa é de suma importancia levando em consideração as boas práticas envolvendo ETL. Porém cada caso é um caso, e deve ser adequado a necessidade do cliente.
 
     
 
