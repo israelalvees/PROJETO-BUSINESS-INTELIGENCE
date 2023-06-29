@@ -19,7 +19,12 @@
   - Segunda Solução: 
     - Criar um DW utilizando a mesma tabela existento no DB da empresa. Sem separação das informações. Intuito seria criar um ambiente de consulta (DW) para não sobrecarregar o banco relacional da empresa.
     - Pró: Agilidade no processo de implementação. A enfâse seria em criar os dashboards utilizando-se a criação de Views no DW. Seria focar na criação dos Dashboards.
-    - Contras: O ambiente de consulta (DW) apresentaria uma lentidão maior nesse cenário. Ainda sim mais rápido do que é hoje, porém bem mais lento do cenário proposto na Primeira Solução. 
+    - Contras: O ambiente de consulta (DW) apresentaria uma lentidão maior nesse cenário. Ainda sim mais rápido do que é hoje, porém bem mais lento do cenário proposto na Primeira Solução.
+   
+      - EXEMPLO DW SEGUNDA OPÇÃO: (nota-se uma unica tabela igual ao do DB porem no ambiente de consulta DW2)
+     
+          ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/ddae8818-d65d-4a27-97e5-2b204e8916f9)
+
     
 
     
