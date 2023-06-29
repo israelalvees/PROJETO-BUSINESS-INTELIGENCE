@@ -11,6 +11,11 @@
     - Pró: Maior organização. Melhor aproveitamento para o futuro. Colaboradores da própria empresa terão condições de alimentar o DW, pois a rotina de att será automatizada (D-1). Custo benifício melhor a médio-longo prazo.
     - Contra: Maior tempo de realização e entendimento dos dados constantes na tabela. Será necessário refazer os Dashboards existentes aproveitando somente o "Modelo" deles.
 
+      - EXEMPLO DW NESSE CENÁRIO:
+
+        ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/7f1cf8b7-882f-4312-a33c-1a04621433e9)
+
+
   - Segunda Solução: 
     - Criar um DW utilizando a mesma tabela existento no DB da empresa. Sem separação das informações. Intuito seria criar um ambiente de consulta (DW) para não sobrecarregar o banco relacional da empresa.
     - Pró: Agilidade no processo de implementação. A enfâse seria em criar os dashboards utilizando-se a criação de Views no DW. Seria focar na criação dos Dashboards.
