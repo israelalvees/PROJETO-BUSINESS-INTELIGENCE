@@ -11,7 +11,7 @@
     - Pró: Maior organização. Melhor aproveitamento para o futuro. Colaboradores da própria empresa terão condições de alimentar o DW, pois a rotina de att será automatizada (D-1). Custo benifício melhor a médio-longo prazo.
     - Contra: Maior tempo de realização e entendimento dos dados constantes na tabela. Será necessário refazer os Dashboards existentes aproveitando somente o "Modelo" deles.
 
-      - EXEMPLO DW NESSE CENÁRIO:
+      - EXEMPLO DW NESSE CENÁRIO: (não constam todas as tabelas)
 
         ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/7f1cf8b7-882f-4312-a33c-1a04621433e9)
 
