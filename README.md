@@ -13,7 +13,8 @@
 
       - EXEMPLO DW NESSE CENÁRIO: (não constam todas as tabelas)
 
-        ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/7f1cf8b7-882f-4312-a33c-1a04621433e9)
+        ![image](https://github.com/israelalvees/PROJETO-BUSINESS-INTELIGENCE/assets/128307729/c55762ad-7f0e-476a-a1db-61d53f80d5bb)
+
 
 
   - Segunda Solução: 
